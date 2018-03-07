@@ -14,6 +14,8 @@ https://drive.google.com/drive/folders/1JLZ5JCEnjzhWMOBupCncAGfZDJYfROAj
 
 ### Scala
 
+### ...
+
 
 ## SQL databases
 
@@ -36,12 +38,15 @@ https://drive.google.com/drive/folders/1JLZ5JCEnjzhWMOBupCncAGfZDJYfROAj
 
 ### Spark ecosystem
 
+### ...
 
 ## Miscellaneous
 
 ### Agile development
 
 ### GDPR
+
+### ...
 
 
 
